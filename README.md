@@ -41,7 +41,7 @@ Inicie o servidor
 
 **Front-end:** HTML, CSS, BOOTSTRAP (via CDN ver 3), Javascript
 
-**Back-end:** Node, Express, Consign, Validator, Body Parser, Nodemon
+**Back-end:** Node, Express, Consign, Validator, Body Parser, Nodemon, EJS
 
 
 
