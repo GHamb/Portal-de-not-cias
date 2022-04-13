@@ -15,7 +15,7 @@ Portal com criação e listagem de noticias utilizando Node.JS
 Clone o projeto dentro de um diretorio qualquer -> example -> anyDirectory/<git clone aqui>
 
 ```bash
-  git clone https://github.com/GHamb/Portal-de-not-cias.git
+  git clone https://github.com/GHamb/Portal-de-noticias.git
 ```
 
 coloque o projeto 
